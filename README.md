@@ -1,6 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello,%20I'm%20nangdev&animation=scaleIn&fontColor=000000&fontSize=70" />
-    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 배움에서 가능성을 찾고, 코드로 꿈을 현실로 만드는 개발자, 김용현 입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 배움을 통해 성장하고, 아이디어를 실제 서비스로 구현하는 데에 가치를 두는 개발자입니다. 사용자 중심의 개발을 지향하며, 기술로 문제를 해결하는 과정을 즐깁니다.</div> 
